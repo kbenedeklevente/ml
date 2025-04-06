@@ -1,6 +1,0 @@
-- cs229 2018
-    - [github](https://github.com/maxim5/cs229-2018-autumn)
-    - [youtube](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-- cs229 2022
-    - [youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)
-    - [problem sets](problem_sets_2022/)
