@@ -1,0 +1,6 @@
+1. [Python vs. Numpy, futási idő összehasonlítás](ann_bsc_python_vs_numpy_speed_hu.ipynb)
+2. [Numpy tutorial, 1. fejezet](ann_bsc_numpy1_hu.ipynb)
+3. [Numpy tutorial, 2. fejezet](ann_bsc_numpy2_hu.ipynb)
+4. [Numpy gyakorlófeladatok](ann_bsc_python_exercises_hu.ipynb)
+5. [Numpy gyakorlófeladatok megoldásai](ann_bsc_python_exercises_solved_hu.ipynb)
+6. [Numpy, a nézetek működésének részletei, ndarray.strides (haladó szint)](ann_bsc_python_iter_generator_hu.ipynb)
