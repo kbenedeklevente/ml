@@ -1,5 +1,5 @@
 1. [Python tutorial, 1. fejezet](ann_bsc_python1_hu.ipynb)
 2. [Python tutorial, 2. fejezet](ann_bsc_python2_hu.ipynb)
 3. [Python gyakorlófeladatok](ann_bsc_python_exercises_hu.ipynb)
-4. Python gyakorlófeladatok megoldásai(ann_bsc_python_exercises_solved_hu.ipynb)
+4. [Python gyakorlófeladatok megoldásai](ann_bsc_python_exercises_solved_hu.ipynb)
 5. [Python, iterátorok és generátorok (haladó szint)](ann_bsc_python_iter_generator_hu.ipynb)
